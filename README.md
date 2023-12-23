@@ -4,7 +4,8 @@
 - FLASK, SQL, SQLAlchemy, Git, Docker
 - I'm learning Django now.
 
-  <img src="https://www.codewars.com/users/Giriraj_das/badges/micro">
+  <img src="https://www.codewars.com/users/Giriraj_das/badges/micro"><br>
+  <img src="https://komarev.com/ghpvc/?username=Giriraj-das" align="right">
 
 <!---
 Giriraj-das/Giriraj-das is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
