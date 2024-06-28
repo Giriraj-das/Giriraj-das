@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Alexander</h1>
 <h3 align="center"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" height="20"/> Python backend developer</h3>
 
+- FastAPI
 - Django, DRF
 - Flask, Flask-RESTx
 - SQL, SQLAlchemy, PostgreSQL
 - Git
-- Docker
+- Docker, docker-compose
 - Redis
 - HTML, CSS
 - BeautifulSoup
