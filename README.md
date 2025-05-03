@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Стек технологий
+## 🚀 Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -37,12 +37,12 @@
 
 ---
 
-## 🛠️ Инструменты
+## 🛠️ Tools
 
-- **Фреймворки**: FastAPI, Django, DRF, Flask, Flask-RESTx  
-- **Базы данных**: PostgreSQL, MySQL, SQLite  
-- **Инструменты разработки**: Git, GitHub, CI/CD, Docker, docker-compose  
-- **Очереди задач**: Redis, Celery  
-- **Веб-технологии**: HTML, CSS  
-- **Парсинг и автоматизация**: Playwright, Selenium, BeautifulSoup  
-- **Принципы и подходы**: OOP, REST, Linux  
+- **Frameworks**: FastAPI, Django, DRF, Flask, Flask-RESTx  
+- **Databases**: PostgreSQL, MySQL, SQLite  
+- **Development Tools**: Git, GitHub, CI/CD, Docker, docker-compose  
+- **Task Queues**: Redis, Celery  
+- **Web Technologies**: HTML, CSS  
+- **Parsing**: Playwright, Selenium, BeautifulSoup  
+- **Principles and Approaches**: OOP, REST, Linux  
