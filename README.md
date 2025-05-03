@@ -39,10 +39,10 @@
 
 ## 🛠️ Tools
 
-- **Frameworks**: FastAPI, Django, DRF, Flask, Flask-RESTx  
-- **Databases**: PostgreSQL, MySQL, SQLite  
-- **Development Tools**: Git, GitHub, CI/CD, Docker, docker-compose  
-- **Task Queues**: Redis, Celery  
-- **Web Technologies**: HTML, CSS  
-- **Parsing**: Playwright, Selenium, BeautifulSoup  
-- **Principles and Approaches**: OOP, REST, Linux  
+- FastAPI, Django, DRF, Flask, Flask-RESTx  
+- PostgreSQL, MySQL, SQLite  
+- Git, GitHub, CI/CD, Docker, docker-compose  
+- Redis, Celery  
+- HTML, CSS  
+- Playwright, Selenium, BeautifulSoup  
+- OOP, REST, Linux  
